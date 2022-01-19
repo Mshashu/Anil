@@ -1,0 +1,63 @@
+.border-grid{
+    border-bottom: 1px solid black;
+    height: 80px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+
+.form-mod{
+    position: relative;
+    margin: 0;
+    padding-top: 10px;
+
+}
+.form-control{
+    border-color: #ccc;
+    border-radius: 30px;
+    height: 40px;  
+    display: block;
+    padding: 0.375rem 0.75rem;
+    font-weight: 400;
+    line-height: 0.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;   
+}
+.Button-mod{
+    font-size: 20px;
+    font-family: "Poppins",sans-serif;
+    padding-top: 12px;
+    color: #000!important;
+    font-weight: 700;
+    top: 6px;
+    position: relative;
+    padding-left: 350px;
+    padding-right: 200px;
+}
+.search-mod{
+    padding-left: 60px;
+padding-top: 10px;
+}
+.twit-mod{
+    padding-top: 27px;
+    padding-left: 20px;
+}
+.face-mod{
+    padding-top: 27px;
+    padding-left: 10px;
+ 
+}
+.inst-mod{
+    padding-top: 27px;
+    padding-right: 40px;
+    padding-left: 10px;
+}
+.icon-mod{
+    padding-top: 27px;
+    width: 20px;
+    height: 90px;
+    padding-right: 100px;
+    padding-left: 100px;
+}

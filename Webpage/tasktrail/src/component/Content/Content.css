@@ -1,0 +1,45 @@
+.content-grid{
+    display: grid;
+    grid-template-rows: auto auto auto auto auto;
+    width: 100%;
+    padding-top: 20px;
+
+
+}
+.Trend-mod{
+    font-size: 40px;
+    font-family: 'poppins',sans-serif;
+    text-align: center;
+ padding-bottom: 30px;
+}
+.size-image{
+    display: grid;
+  justify-content: center;
+  
+   width: 100%;   
+}
+.col-grid{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+
+}
+.corsoul-grid{
+    display: grid;
+    justify-content: center;
+    padding-left: 230px;
+     width: 100%; 
+}
+.header-grd{
+    font-size:40px;
+     font-weight:700;
+     font-family:"Poppins",sans-serif;
+     color: #000;
+     padding-left: 450px;
+     padding-top: 70px;
+     padding-bottom: 50px;
+ 
+}
+.mpp-grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}

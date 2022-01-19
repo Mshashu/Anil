@@ -1,0 +1,22 @@
+.card-grid1{
+    display: grid;
+    grid-template-rows: auto auto;
+    width:350px;
+    height:500px;
+}
+.text-grid1{
+text-decoration: none;
+    color: #222;
+}
+.grid-content{
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+}
+.content-grids{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 100vw;
+    height: 100vh;
+    padding-left: 35px;
+}

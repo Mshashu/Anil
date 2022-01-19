@@ -1,0 +1,4 @@
+.grid-search{
+    display: grid;
+    grid-template-columns: auto auto;
+}

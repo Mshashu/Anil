@@ -1,0 +1,63 @@
+.Header-grid{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto;
+  background-color: #333;
+  height:60px;
+
+}
+.img-mod{
+ padding-top: 14px;
+ padding-left: 10px;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid #444;
+}
+.select-Product{
+  color: #9b9b9b;
+  display: block;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 50px;
+  max-height: 60px;
+  padding: 5px 40px 5px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.badge{
+  background: #e66346;
+  border-radius: 0;
+  color: #fff;
+  font-family: 'Open Sans',sans-serif;
+  font-size: 9px;
+  font-weight: 300;
+  position: relative;
+  top: -3px;
+  right: -20px;
+  display: none;
+}
+.desk-mod{
+  color: #fff;
+padding-left: 700px;
+  padding-top: 20px;
+  border: opx 1px #444;
+}
+.phone-mod{
+  color: #fff;
+  padding-top: 20px;
+  border: opx 1px #444;
+}
+.cell-mod{
+  color:#fff;
+  padding-top: 20px;
+  font-size: 20px;
+  border: opx 1px #444;
+}
+.shop-mod{
+  color: #fff;
+  padding-top: 20px;
+
+}
+.close-mod{
+  color: #fff;
+  padding-top: 20px;
+}

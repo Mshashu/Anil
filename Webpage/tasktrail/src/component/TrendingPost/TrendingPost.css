@@ -1,0 +1,27 @@
+.img-grid{
+
+    margin-left: 50px;
+}
+.card-grid{
+    display: grid;
+    grid-template-columns:  30% 42%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+    /* justify-content: center; */
+
+}
+.text-grid{
+    
+    padding-left: 30px;
+    color: #222;
+text-align: start !important;
+padding-bottom: 15px;
+}
+.tex-grid{
+    display: flex;
+    flex-direction: row;
+    
+
+}
